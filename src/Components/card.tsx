@@ -1,41 +1,20 @@
 import axios from 'axios';
 import React from 'react'
-import { StyleSheet, Text, View, ViewStyle } from 'react-native'
-
+import { StyleSheet, Text, TouchableOpacity, View, ViewStyle } from 'react-native'
 interface props {
     style?: ViewStyle,
-    name: Array<String>,
-    species: Array<String>,
-    films: Array<String>,
-    starships: Array<String>
+    name?: String,
+    onPress?: () => void,
+    clicked_name?: string
 }
 const card: React.FC<props> = (props) => {
-    console.log("names", props.name);
+    console.log(props.clicked_name);
+
     return (
-        <View style={[styles.card, props.style]}>
-            {props.name.length > 0 && <Text style={styles.text}>{props.name}</Text>}
-            {/* {props.species && <View style={{ flexDirection: 'row' }}>
-                {props.species.map(spec => {
-                    return (
-                        <Text style={styles.text}>{spec}</Text>
-                    )
-                })}
-            </View>} */}
-            {/* {props.films && <View style={{ flexDirection: 'row' }}>
-                {props.films.map(films => {
-                    return (
-                        <Text style={styles.text}>{films}</Text>
-                    )
-                })}
-            </View>}
-            {props.starships && <View style={{ flexDirection: 'row' }}>
-                {props.starships.map(starships => {
-                    return (
-                        <Text style={styles.text}>{starships}</Text>
-                    )
-                })}
-            </View>} */}
-        </View>
+        <TouchableOpacity style={[styles.card, props.style, { borderLeftColor: props.clicked_name == props.name ? 'red' : 'white', borderLeftWidth: props.clicked_name ? 5 : 0 }]} onPress={props.onPress}>
+            {props.children}
+            {props.name && <Text style={[styles.text, { color: props.clicked_name == props.name ? 'red' : 'black', width: 110 }]}>{props.name}</Text>}
+        </TouchableOpacity>
     )
 }
 
@@ -43,17 +22,15 @@ export default card
 
 const styles = StyleSheet.create({
     card: {
-        flex: 1,
-        height: 200,
-        justifyContent: 'space-around',
+        justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#BCECE0',
-        borderRadius: 10,
-        padding: 10
+        backgroundColor: 'white',
+        padding: 10,
+        elevation: 2,
     },
     text: {
-        color: 'black',
         fontSize: 20,
-        fontWeight: 'bold'
+        fontWeight: 'bold',
+        textAlign: 'center'
     }
 })

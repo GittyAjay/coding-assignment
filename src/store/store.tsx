@@ -1,42 +1,55 @@
-import axios from 'axios';
 import React from 'react';
-import { ADD_RECORDS, add_records } from './action';
+import { GET_CATEGORIES, GET_SELECTED_CATEGORIES, get_selected_categories, get_categories, SET_SELECTED_CATEGORIES_NAME } from './action';
+import data from "../Assets/data.json"
 const init = {
-    records: [
-        { name: "", species: "", movies: "", Spaceships: "" }
-    ],
+    categories: [],
+    selected_categories: [],
+    selected_categories_name: "Electronics"
 }
 export default function store(state = init, action: any) {
     switch (action.type) {
-        case ADD_RECORDS:
+        case GET_CATEGORIES:
             return {
                 ...state,
-                records: [...state.records, action.payload]
+                categories: [...state.categories, action.payload]
+            }
+        case GET_SELECTED_CATEGORIES:
+            return {
+                ...state,
+                selected_categories: action.payload
+            }
+        case SET_SELECTED_CATEGORIES_NAME:
+            return {
+                ...state,
+                selected_categories_name: action.payload
             }
         case "CLEAR":
             return {
                 ...state,
-                records: []
+                categories: []
             }
         default:
             return state;
     }
 }
-export const Get_Records = async (dispatch: Function, getState: any) => {
-    let count;
-    getState().records
-    await axios.get('https://swapi.dev/api/people/?format=json').then(async res => {
-        count = res.data.count;
-        res.data.results.map((val) => {
-            dispatch(add_records({
-                name: val.name,
-                species: val.species,
-                movies: val.films,
-                Spaceships: val.starships
-            }));
+export const Get_Categories = async (dispatch: Function, getState: any) => {
+    if (data) {
+        data.map(res => {
+            const { name } = res;
+            dispatch(get_categories(name));
         })
-    }).catch(err => {
-        console.log("ERROR", err);
-    })
+    }
 }
+export const Get_selected_Categories = async (dispatch: Function, getState: any) => {
+    if (data) {
+        console.log(getState().selected_categories_name);
+        data.map(res => {
+            if (res.name == getState().selected_categories_name) {
+                dispatch(get_selected_categories(res.children_data));
+            }
+        })
+    }
+}
+
+
 

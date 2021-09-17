@@ -1,0 +1,1982 @@
+﻿[
+  {
+    "id": "466",
+    "name": "Electronics",
+    "position": "1",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "/pub/media/catalog/category/Mobile_accessories-01_2.jpg",
+    "mobile_image": "/pub/media/catalog/category/bannerslider.phtml.jpg",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_01_2.png",
+    "children_data": [
+      {
+        "id": "261",
+        "name": "Mobile Phones",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Mobile_Phones-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "349",
+            "name": "Smart Phones",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "467",
+        "name": "Tablets",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "468",
+            "name": "Apple iPads",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "469",
+            "name": "Android Tablets",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "865",
+            "name": "Tablet Accessories",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "270",
+        "name": "Smart Devices",
+        "position": "3",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Camera.png",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "437",
+            "name": "Smart Watches",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "490",
+            "name": "Watch Accessories",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "281",
+        "name": "Laptops & Computers",
+        "position": "4",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/laptop_computer-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "492",
+            "name": "Desktop Computers",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "493",
+            "name": "Laptops",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "442",
+        "name": "Cameras",
+        "position": "5",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/camaras-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "444",
+            "name": "Digital cameras",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "445",
+            "name": "DSLR lenses",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "447",
+            "name": "Camcorders",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "458",
+            "name": "Memory Cards",
+            "position": "11",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "461",
+            "name": "Photo Printers",
+            "position": "14",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "449",
+            "name": "Accessories",
+            "position": "15",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "521",
+        "name": "Networking",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Networking-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "522",
+            "name": "Routers",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "531",
+        "name": "Home Audio & Video",
+        "position": "7",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Home_audio_Video-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "529",
+            "name": "Televisions",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "532",
+            "name": "Home Theaters",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "807",
+            "name": "Bluetooth speakers",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "/pub/media/catalog/category/Blutooth_speaker-01.jpg",
+            "mobile_image": ""
+          },
+          {
+            "id": "530",
+            "name": "Projectors",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "596",
+            "name": "Audio Equipment",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "882",
+            "name": "TV Boxs",
+            "position": "11",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "602",
+        "name": "CCTV Cameras & Surveillance ",
+        "position": "8",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/CCTV.jpg",
+        "mobile_image": ""
+      },
+      {
+        "id": "494",
+        "name": "Laptops & Computers Accessories",
+        "position": "9",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Computer_Accessories_1.png",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "860",
+            "name": "Stylus Pen",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "513",
+            "name": "Computer Monitors",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "495",
+            "name": "Bags & Carry Cases",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "497",
+            "name": "Cables",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "498",
+            "name": "Cooling Pads",
+            "position": "6",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "500",
+            "name": "Headphones & Headsets",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "501",
+            "name": "Keyboards & Mouse",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "504",
+            "name": "Data Storage",
+            "position": "10",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "862",
+            "name": "Laptop Guard",
+            "position": "11",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "505",
+            "name": "Speakers",
+            "position": "12",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "508",
+            "name": "Webcams",
+            "position": "13",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "859",
+            "name": "Gaming Desk",
+            "position": "14",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "339",
+        "name": "Mobile Accessories",
+        "position": "11",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Mobile_accessories-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "340",
+            "name": "Cables",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "341",
+            "name": "Chargers",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "342",
+            "name": "Headphones",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "629",
+            "name": "Wireless Earbuds",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "803",
+            "name": "Earphones",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "/pub/media/catalog/category/Ear_phones-01.jpg",
+            "mobile_image": ""
+          },
+          {
+            "id": "343",
+            "name": "Memory Cards",
+            "position": "6",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "344",
+            "name": "Mobile Cases",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "345",
+            "name": "Power Banks",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "346",
+            "name": "Screen Protectors",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "861",
+            "name": "Adapter",
+            "position": "10",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "347",
+            "name": "Cleaning Kit",
+            "position": "11",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "620",
+        "name": "Drone",
+        "position": "12",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Drone.jpg",
+        "mobile_image": ""
+      },
+      {
+        "id": "524",
+        "name": "Printers & Scanners",
+        "position": "14",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/printer.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "525",
+            "name": "Inkjet Printer",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "863",
+        "name": "Repairing Tool & Hardware",
+        "position": "15",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "name": "Truly Omanis",
+    "position": "2",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "/pub/media/catalog/category/Frankincense_water.jpg",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_07_1.png",
+    "children_data": [
+      {
+        "id": "665",
+        "name": "Honey",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "668",
+        "name": "Omani Jewellery",
+        "position": "4",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "671",
+        "name": "Laptop Bags & Sleeves",
+        "position": "5",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "664",
+        "name": "Stationery & Dairies",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "660",
+        "name": "Candles & Holders",
+        "position": "7",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "670",
+        "name": "Kumma",
+        "position": "8",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "666",
+        "name": "Frankincense",
+        "position": "9",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "380",
+    "name": "Fashion",
+    "position": "3",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_06_2.png",
+    "children_data": [
+      {
+        "id": "377",
+        "name": "Bags & Wallets",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "381",
+            "name": "Backpacks",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "384",
+            "name": "Packing & Bags Accessories",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "888",
+            "name": "Belt pouch",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "419",
+        "name": "Eyewear & Optics",
+        "position": "3",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "421",
+            "name": "Eyewear",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "422",
+            "name": "Eyewear Accessories",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "393",
+        "name": "Accessories",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "395",
+            "name": "Clothing Accessories",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "398",
+            "name": "Socks",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "470",
+    "name": "Beauty",
+    "position": "4",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_03_1.png",
+    "children_data": [
+      {
+        "id": "545",
+        "name": "Beauty Gifts Sets",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "546",
+        "name": "Beauty Tools & Accessories",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "902",
+            "name": "Burner",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "603",
+        "name": "Hair Care Center",
+        "position": "3",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "604",
+            "name": "Hair Care",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "605",
+            "name": "Hair Dyes",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "607",
+            "name": "Hair Treatment",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "608",
+            "name": "Shampoos & Conditioners",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "251",
+            "name": "Hair Styling Electronics",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "252",
+            "name": "Hair Tools & Accessories",
+            "position": "6",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "799",
+            "name": "Hair Removal devices",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "256",
+        "name": "Skin Care Center",
+        "position": "4",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "286",
+            "name": "Body Lotions",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "287",
+            "name": "Face Creams",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "288",
+            "name": "Skin Care",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "260",
+        "name": "Jewelry & Accessories",
+        "position": "5",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "336",
+            "name": "Necklaces",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "337",
+            "name": "Pendants & Charms",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "813",
+        "name": "Makeup",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "814",
+            "name": "Face",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "815",
+            "name": "Eyes",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "816",
+            "name": "Lips",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "817",
+            "name": "Nails",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "818",
+            "name": "Brushes & Tools",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "name": "Home",
+    "position": "5",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_08_1.png",
+    "children_data": [
+      {
+        "id": "276",
+        "name": "Home Appliances",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Home_appliances-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "618",
+            "name": "Vacuum Cleaners",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "788",
+            "name": "Ovens, Ranges & Stoves ",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "809",
+            "name": "Air Purifiers & Humidifiers",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "792",
+            "name": "Irons & Steamers ",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "802",
+            "name": "Lamps",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "793",
+        "name": "Kitchenware & Tableware",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Kitchenware_Tableware-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "575",
+            "name": "Mugs",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "617",
+            "name": "Drinkware",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "612",
+        "name": "Home Supplies",
+        "position": "4",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "801",
+        "name": "Humidifier",
+        "position": "5",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "819",
+        "name": "Home Cleaning",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "820",
+        "name": "Water Saver Tap",
+        "position": "7",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "868",
+        "name": "Lighter And Accessories",
+        "position": "8",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "871",
+        "name": "Packing Materials",
+        "position": "9",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "274",
+        "name": "Kitchen Appliances",
+        "position": "10",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "/pub/media/catalog/category/Kitchen_appliances-01.jpg",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "775",
+            "name": "Blenders & Mixers",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "776",
+            "name": "Coffee & Espresso Makers",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "783",
+            "name": "Microwaves ",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "777",
+            "name": "Electric Meat Grinders & Mincer",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "778",
+            "name": "Food Processors & Chopper",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "780",
+            "name": "Juicers & Presses",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "781",
+            "name": "Kettles",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "784",
+            "name": "Rice Cooker",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "785",
+            "name": "Sandwich & Waffle Makers",
+            "position": "10",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "786",
+            "name": "Toasters",
+            "position": "11",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "797",
+            "name": "Airfryer",
+            "position": "15",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "800",
+            "name": "Electric Grill",
+            "position": "16",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "811",
+            "name": "Water purifiers",
+            "position": "19",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "883",
+            "name": "Knife Sharpener",
+            "position": "20",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "472",
+    "name": "Gaming",
+    "position": "6",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "",
+    "children_data": [
+      {
+        "id": "537",
+        "name": "Game Consoles",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "538",
+        "name": "Game Gadgets & Accessories",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "864",
+            "name": "Playstation",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "name": "Sports",
+    "position": "7",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_01_1_1.png",
+    "children_data": [
+      {
+        "id": "680",
+        "name": "Camping Gear",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "881",
+            "name": "Knives",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "687",
+            "name": "Flashlights",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "name": "Health  Care",
+    "position": "9",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "",
+    "children_data": [
+      {
+        "id": "296",
+        "name": "Bath & Body Center",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "300",
+            "name": "Body Massagers",
+            "position": "1",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "297",
+            "name": "Bath & Body",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "298",
+            "name": "Gift Set",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "299",
+            "name": "Soap & Shower Gel",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "903",
+            "name": "Carrier Oil",
+            "position": "5",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "904",
+            "name": "Watercolours",
+            "position": "6",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "905",
+            "name": "Cleansing Gel",
+            "position": "7",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "907",
+            "name": "Essential Oil",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "301",
+        "name": "Dental Care Center",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "303",
+            "name": "Electric Toothbrushes",
+            "position": "2",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "305",
+            "name": "Toothbrushes",
+            "position": "4",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "309",
+        "name": "Women's Grooming",
+        "position": "6",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "311",
+        "name": "Men's Grooming",
+        "position": "8",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "312",
+        "name": "Personal Care Center",
+        "position": "9",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "315",
+            "name": "Deodorants & Antiperspirants",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "874",
+            "name": "Hair oil",
+            "position": "8",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          },
+          {
+            "id": "886",
+            "name": "Nail Clipper",
+            "position": "9",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "320",
+        "name": "Personal Hygiene",
+        "position": "10",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "798",
+        "name": "Mask",
+        "position": "12",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "282",
+        "name": "Baby",
+        "position": "14",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": "",
+        "children_data": [
+          {
+            "id": "624",
+            "name": "Baby Bath & Skin Care",
+            "position": "3",
+            "level": "4",
+            "is_active": true,
+            "include_in_menu": true,
+            "image": "",
+            "mobile_image": ""
+          }
+        ]
+      },
+      {
+        "id": "872",
+        "name": "Safety Gear",
+        "position": "15",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "name": "Perfumes & Fragrances",
+    "position": "10",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": true,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "/pub/media/catalog/category/cat_04_1.png",
+    "children_data": [
+      {
+        "id": "356",
+        "name": "Perfumes",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "357",
+        "name": "Fragrance Gift Sets",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "928",
+    "name": "Home Decor",
+    "position": "11",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": false,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "",
+    "children_data": [
+      {
+        "id": "929",
+        "name": "Home Fragrance",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "name": "Bed & Bath\t",
+    "position": "40",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": false,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "",
+    "children_data": [
+      {
+        "id": "897",
+        "name": "Body Warmer",
+        "position": "5",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "366",
+        "name": "Showers & Showerheads",
+        "position": "9",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "892",
+        "name": "Bath powder",
+        "position": "12",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "893",
+        "name": "Bath Salts",
+        "position": "13",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "894",
+        "name": "Blastercard",
+        "position": "14",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "895",
+        "name": "Body Butter",
+        "position": "15",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "896",
+        "name": "Body Polish",
+        "position": "16",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "898",
+        "name": "Body scrub",
+        "position": "17",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "899",
+        "name": "Body Wash",
+        "position": "18",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "900",
+        "name": "Bubble-Doh",
+        "position": "19",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "901",
+        "name": "Bubble Bath",
+        "position": "20",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "906",
+        "name": "Bath Creamer",
+        "position": "21",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": true,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  },
+  {
+    "id": "958",
+    "name": "Promotions",
+    "position": "47",
+    "level": "2",
+    "is_active": true,
+    "include_in_menu": false,
+    "image": "",
+    "mobile_image": "",
+    "smartmenu_cat_imgicon": "",
+    "children_data": [
+      {
+        "id": "278",
+        "name": "Students Deal",
+        "position": "1",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": false,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "957",
+        "name": "Express Delivery",
+        "position": "2",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": false,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "959",
+        "name": "Babyliss",
+        "position": "3",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": false,
+        "image": "",
+        "mobile_image": ""
+      },
+      {
+        "id": "960",
+        "name": "Bomb Cosmetics",
+        "position": "4",
+        "level": "3",
+        "is_active": true,
+        "include_in_menu": false,
+        "image": "",
+        "mobile_image": ""
+      }
+    ]
+  }
+]

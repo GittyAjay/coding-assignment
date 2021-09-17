@@ -1,29 +1,23 @@
-export const ADD_RECORDS = "ADD_NAME"
-export const SAVE_RECORDS = "SAVE_RECORDS";
-export const SAVE_SPECIES = "SAVE_SPECIES"
-export const SAVE_MOVIES = "SAVE_MOVIES"
-export const SAVE_SPACESHIP = "SAVE_SPACESHIP"
-export const add_records = (payload: { name: string, species: string, movies: string, Spaceships: string }) => {
+export const GET_CATEGORIES = "GET_CATEGORIES"
+export const GET_SELECTED_CATEGORIES = "GET_SELECTED_CATEGORIES"
+export const SET_CHILDREN_NAME = "SET_CHILDREN_NAME"
+export const SET_SELECTED_CATEGORIES_NAME = "SET_SELECTED_CATEGORIES_NAME"
+export const get_categories = (payload) => {
     return {
-        type: ADD_RECORDS,
+        type: GET_CATEGORIES,
         payload
     }
 }
-export const save_movies = (payload: any) => {
+export const get_selected_categories = (payload) => {
     return {
-        type: SAVE_MOVIES,
+        type: GET_SELECTED_CATEGORIES,
         payload
     }
 }
-export const save_species = (payload: any) => {
+export const set_selected_categories_name = (payload) => {
     return {
-        type: SAVE_SPECIES,
+        type: SET_SELECTED_CATEGORIES_NAME,
         payload
     }
 }
-export const save_spaceship = (payload: any) => {
-    return {
-        type: SAVE_SPACESHIP,
-        payload
-    }
-}
+
